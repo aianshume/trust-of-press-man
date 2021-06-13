@@ -163,14 +163,14 @@ License: http://codecanyon.net/licenses
 	text-transform: uppercase;
 }
 .menuzord-menu ul.dropdown li a:hover{
-	color: #d5aa6d;
+	color: #FF1717;
 
 
 }
 /* Hover state (dropdown items) */
 .menuzord-menu ul.dropdown li:hover > a{
 
-	color: #d5aa6d;
+	color: #FF1717;
 }
 
 /* Dropdown left alignment */
