@@ -10,7 +10,7 @@
             var mapOptions = {
                 scrollwheel: false,
                 zoom: 16,
-                center: new google.maps.LatLng(23.710551, 90.415643), // New York
+                center: new google.maps.LatLng(26.8743465, 75.7642094), // New York
                 styles: [{
                     featureType: "landscape",
                     stylers: [{
