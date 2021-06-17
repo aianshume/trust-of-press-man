@@ -752,7 +752,6 @@ p{
 }
 
 .rev-slider-btn-1,.rev-slider-btn-1:focus,.rev-slider-btn-1:visited,.rev-slider-btn-1:active{
-    border: 2px solid #eee;
     border-radius: 0;
     font-size: 13px;
     line-height: 1;
@@ -761,7 +760,7 @@ p{
     position: relative;
     text-transform: uppercase;
     font-weight: 700;
-    background-color: transparent;
+    background-color: #FF1717;
     color: #fff;
     -webkit-text-shadow: 0 0 0 rgba(0,0,0,0);
     -moz-text-shadow: 0 0 0 rgba(0,0,0,0);
