@@ -7298,3 +7298,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .rev-margin{
     margin-top: 170px!important;
 }
+
+.formFooter-content{
+    display: none;
+}
