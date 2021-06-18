@@ -1539,6 +1539,7 @@ p{
 .team-img{}
 .team-img img{
 	width: 100%;
+    border-radius: 50%;
 }
 .about-team-member{
 	position: absolute;
@@ -7298,6 +7299,6 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     margin-top: 170px!important;
 }
 
-.formFooter-content{
+div.formFooter-content{
     display: none;
 }
