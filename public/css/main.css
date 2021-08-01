@@ -3457,6 +3457,9 @@ select::-ms-expand {
 .about-us-page-title-bg{
     background: url(../images/page-titles/about-us-1.jpg);  
 }
+.cources-page-title-bg{
+    background: url(../images/page-titles/cources.jpeg);  
+}
 .client-title-bg{
     background: url(../images/page-titles/client-title-bg.jpg);
 }
@@ -7301,4 +7304,8 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 
 div.formFooter-content{
     display: none;
+}
+.cources-certificate {
+    height: 80%;
+    width: 100%;
 }
